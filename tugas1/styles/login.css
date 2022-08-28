@@ -1,0 +1,19 @@
+body {
+    background: linear-gradient(45deg, var(--bs-purple), 10%, var(--bs-indigo), var(--bs-cyan));
+}
+
+.form-container {
+    background-color: #eee;
+}
+
+#form input {
+    background-color: white;
+    /* opacity: 1; */
+}
+
+#form .btn {
+    max-width: 15rem;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+}
